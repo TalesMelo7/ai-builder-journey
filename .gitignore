@@ -1,0 +1,14 @@
+# Segredos — nunca suba sua chave de API
+.env
+
+# Ambiente virtual e cache do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -8,7 +8,7 @@ Cada fase termina com um projeto publicado aqui. Todos os projetos usam dados fi
 
 | # | Fase | Semanas | Período | Entrega | Status |
 |---|------|---------|---------|---------|--------|
-| 1 | Fundamentos de LLMs | 1–2 | 16/11 – 29/11/2026 | Script que chama uma API de LLM | ⬜ |
+| 1 | Fundamentos de LLMs | 1–2 | 16/11 – 29/11/2026 | Script que chama uma API de LLM | 🟡 em andamento |
 | 2 | Engenharia de prompts | 3–6 | 30/11 – 27/12/2026 | Biblioteca de prompts com testes | ⬜ |
 | 3 | Criação de APIs | 7–10 | 28/12/2026 – 24/01/2027 | API "analisador de planilhas" | ⬜ |
 | 4 | Automações (n8n, Make, Zapier) | 11–14 | 25/01 – 21/02/2027 | Fluxo n8n de e-mails de pedidos com IA | ⬜ |
@@ -34,4 +34,4 @@ Python · FastAPI · n8n · Claude API · MCP · Claude Agent SDK / LangGraph ·
 
 - [ ] Claude Academy — cursos introdutórios
 - [ ] Claude Academy — MCP
-- [ ] Oracle ONE AI for Tech (turma 2027)
+- [ ] Oracle ONE AI for Tech (turma 2027) — pré-inscrição feita em 11/11/2026
